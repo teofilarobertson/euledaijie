@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vaengeimoy.samuelhuba.com/sitemap.xml
